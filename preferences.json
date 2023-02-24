@@ -1,0 +1,28 @@
+
+{
+  "favorite_movie" : "The Great Gatsby",
+  "favorite_tv_series" : {
+			"tv_series_1" : "Friends",
+			"tv_series_2" : "Big Bang Theory"
+  			}
+  "favorite_dish" : "Greek Salad",
+  "hobbies" : {
+		"hobby_1" : "reading book",
+		"hobby_2" : "working out",
+		"hobby_3" : "traveling"
+
+  }
+
+
+
+
+
+
+}
+
+
+
+
+
+
+

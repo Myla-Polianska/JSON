@@ -1,0 +1,40 @@
+{
+"writing_documentation" : {
+				"doc_1" : "test cases",
+				"doc_2" : "bug reports",
+				"doc_3" : "check lists",
+				"doc_4" : "traceability matrix"
+			}
+"knowledge" : { 
+		"knw_1" : "HTML",
+		"knw_2" : "CSS",
+		"knw_3" : "Java script",
+		"knw_4" : "SQL"
+
+		}
+"tools" : {
+	"tool_1" : "Dev Tools",
+	"tool_2" : "GitHub",
+	"tool_3" : "Postman",
+	"tool_4" : "Charles",
+	"tool_5" : "Jmeter",
+	"tool_6" : "Jira",
+	"tool_7" : "Confluence",
+	"tool_8" : "Visual Studio Code"
+}
+
+		
+}
+
+
+
+
+
+
+
+
+
+
+
+
+}
