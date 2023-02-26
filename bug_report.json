@@ -1,1 +1,21 @@
-
+{
+"date": 
+"id" : 
+"reported_by" : 
+"software_name" : 
+"software_version" : 
+"operation_system" : 
+"language" : 
+"hardware_configuration" : 
+"title":
+"problem_description" :
+"pre-condition" :
+"step_to_reproduce" :
+"expected_result" :
+"actual_result" :
+"bug _reproducibility" :
+"attachments" :
+"assigned_to" :
+"priority" :
+"severity" :
+}
